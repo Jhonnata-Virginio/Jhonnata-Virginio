@@ -6,7 +6,6 @@
 - To find out more about me, visit:
     - [**Linkedin**](https://www.linkedin.com/in/jhonnata-vieira-virginio-31352a24b/)
     - [**Instagram**](https://www.instagram.com/jhonnata__virginio/)
-    - [**GitHub**](https://github.com/Jhonnata-Virginio)
 
 <!---
 Jhonnata-Virginio/Jhonnata-Virginio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
