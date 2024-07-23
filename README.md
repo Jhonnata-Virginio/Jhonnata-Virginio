@@ -1,6 +1,6 @@
 **👨 Who I am?**
 - My name is Jhonnata Virginio;
-- I'm 16 years old;
+- I'm 17 years old;
 - I am currently a student at [Instituto Federal da Paraíba, Campina Grande campus **(IFPB-CG)**](https://ifpb.edu.br/campinagrande);
 - I'm in the 3rd year of high school integrated into the IT Technician course
 - To find out more about me, visit:
