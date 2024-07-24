@@ -1,9 +1,9 @@
-## **Hello! I'm Jhonnata Virginio 👋**
+## **Olá! Sou Jhonnata Virginio 👋**
 
-- I'm 17 years old;
-- I am currently a student at [Instituto Federal da Paraíba, Campina Grande campus **(IFPB-CG)**](https://ifpb.edu.br/campinagrande);
-- I'm in the 3rd year of high school integrated into the IT Technician course;
-- To find out more about me, visit:
+- Tenho 17 anos;
+- Atualmente sou aluno do [Instituto Federal da Paraíba, Campina Grande campus **(IFPB-CG)**](https://ifpb.edu.br/campinagrande);
+- Estou no 3º ano do Ensino Médio Integrado ao Curso de Técnico em Informática;
+- Para saber mais sobre mim, visite:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jhonnatavieiravirginio@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonnata__virginio/)
@@ -13,7 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonnata-Virginio&show_icons=true&theme=dark)
 
 
-## **Technologies I frequently use**
+## **Tecnologias que utilizo frequentemente**
 
 <div style='display: inline_block'><br/>
     <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
