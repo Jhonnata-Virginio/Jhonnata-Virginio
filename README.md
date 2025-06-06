@@ -1,8 +1,7 @@
 ## **Olá! Sou Jhonnata Virginio 👋**
 
-- Tenho 17 anos;
-- Atualmente sou aluno do [Instituto Federal da Paraíba, Campina Grande campus **(IFPB-CG)**](https://ifpb.edu.br/campinagrande);
-- Estou no 3º ano do Ensino Médio Integrado ao Curso de Técnico em Informática;
+- Tenho 18 anos;
+- Formado no Curso de Técnico em Informática pelo [Instituto Federal da Paraíba, Campina Grande campus **(IFPB-CG)**];
 - Para saber mais sobre mim, visite:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=jhonnatavieiravirginio@gmail.com)
